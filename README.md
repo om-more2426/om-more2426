@@ -35,11 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/images/n8n-logo.png" title="n8n" alt="n8n" width="40" height="40"/>
-  <img src="https://via.placeholder.com/40?text=Lovable" title="Lovable" alt="Lovable" width="40" height="40"/>
+  <img src="https://i.imgur.com/hNJDyU1.png" title="n8n" alt="n8n" width="40" height="40"/>
+  <img src="https://i.imgur.com/4PB0Sy7.png" title="Lovable" alt="Lovable" width="40" height="40"/>
 </p>
-
-*(replace placeholder Lovable logo later with official logo if available)*
 
 ---
 
